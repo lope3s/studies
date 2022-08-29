@@ -1,14 +1,13 @@
 import http from 'node:http';
-
-import Routes from './routes/index.js';
+import routes from './routes/index.js';
 
 function handler (request, response) {
     const method = request.method
     const url = new URL(request.url, `http://${request.headers.host}`)
 
-    const routes = new Routes(method)
+    const route = routes[url.pathname]
 
-    routes[url.pathname] ? routes[url.pathname](request, response) : routes.error404(response)
+    route ? route[method](request, response) : routes.error(response)
 }
 
 const server = http.createServer(handler)
