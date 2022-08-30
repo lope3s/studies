@@ -1,10 +1,5 @@
-class ConvertController {
-    GET(request, response) {
-        console.log('convert')
+import ConvertController from './ConvertController.js'
 
-        response.writeHead(200, {'Content-Type': 'application/json'})
-        response.end(JSON.stringify({error: 'converted'}))
-    }
+export {
+	ConvertController
 }
-
-export default new ConvertController();

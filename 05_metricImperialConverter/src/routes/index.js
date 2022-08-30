@@ -1,4 +1,4 @@
-import ConvertController from '../controllers/index.js'
+import {ConvertController} from '../controllers/index.js'
 
 const routes = {
     '/convert': ConvertController,
@@ -9,3 +9,4 @@ const routes = {
 }
 
 export default routes
+
