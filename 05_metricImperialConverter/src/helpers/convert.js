@@ -8,14 +8,21 @@ const convertValues = {
 }
 
 function convert(input) {
-	const number = parseInt( input.replace(/[a-z]/g, ''))
-	const unit = input.replace(/[0-9]/g, '')
+	const number = parseFloat(input.replace(/[a-z]/g, ''))
+	const unit = input.replace(/[0-9.]/g, '')
+	const property = convertValues[unit]
+	
+	if (!number) return {error: 'No value provided'}
+
+	if (!unit) return {error: 'No unit provided'}
+
+	if (!property) return {error: "Unit doesn't exists"}
 
 	return {
 		initNum: number,
 		initUnit: unit,
-		returnNum: convertValues[unit].value * number,
-		returnUnit: convertValues[unit].sisUnit
+		returnNum: property.value * number,
+		returnUnit: property.sisUnit
 	}
 		
 	

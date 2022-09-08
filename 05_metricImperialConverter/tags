@@ -1,0 +1,513 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+(	node_modules/is-glob/index.js	/^var chars = { '{': '}', '(': ')', '[': ']'};$/;"	p	class:chars
+/convert	src/routes/index.js	/^    '\/convert': ConvertController,$/;"	p	class:from
+Bus	node_modules/nodemon/lib/utils/bus.js	/^var Bus = function () {$/;"	f
+Comparator	node_modules/semver/semver.js	/^Comparator.prototype.parse = function (comp) {$/;"	c
+Comparator	node_modules/semver/semver.js	/^Comparator.prototype.toString = function () {$/;"	c	class:Comparator.this
+Logger	node_modules/nodemon/lib/utils/log.js	/^var Logger = function (r) {$/;"	c
+MAX_LENGTH	node_modules/braces/lib/constants.js	/^  MAX_LENGTH: 1024 * 64,$/;"	p	class:module.exports
+MAX_LENGTH	node_modules/picomatch/lib/constants.js	/^  MAX_LENGTH: 1024 * 64,$/;"	p	class:module.exports
+Minimatch	node_modules/minimatch/minimatch.js	/^  m.Minimatch = function Minimatch (pattern, options) {$/;"	f
+Minimatch	node_modules/minimatch/minimatch.js	/^Minimatch.prototype.debug = function () {}$/;"	c
+Minimatch	node_modules/minimatch/minimatch.js	/^Minimatch.prototype.parseNegate = parseNegate$/;"	c	class:Minimatch.var
+Minimatch.defaults	node_modules/minimatch/minimatch.js	/^Minimatch.defaults = function (def) {$/;"	f
+Range	node_modules/semver/semver.js	/^Range.prototype.format = function () {$/;"	c
+Range	node_modules/semver/semver.js	/^Range.prototype.toString = function () {$/;"	c	class:Range
+SIGABRT	node_modules/nodemon/lib/monitor/signals.js	/^  SIGABRT: 6,$/;"	p	class:module.exports
+SIGALRM	node_modules/nodemon/lib/monitor/signals.js	/^  SIGALRM: 14,$/;"	p	class:module.exports
+SIGBUS	node_modules/nodemon/lib/monitor/signals.js	/^  SIGBUS: 7,$/;"	p	class:module.exports
+SIGCHLD	node_modules/nodemon/lib/monitor/signals.js	/^  SIGCHLD: 17,$/;"	p	class:module.exports
+SIGCONT	node_modules/nodemon/lib/monitor/signals.js	/^  SIGCONT: 18,$/;"	p	class:module.exports
+SIGFPE	node_modules/nodemon/lib/monitor/signals.js	/^  SIGFPE: 8,$/;"	p	class:module.exports
+SIGHUP	node_modules/nodemon/lib/monitor/signals.js	/^  SIGHUP: 1,$/;"	p	class:module.exports
+SIGILL	node_modules/nodemon/lib/monitor/signals.js	/^  SIGILL: 4,$/;"	p	class:module.exports
+SIGINT	node_modules/nodemon/lib/monitor/signals.js	/^  SIGINT: 2,$/;"	p	class:module.exports
+SIGIO	node_modules/nodemon/lib/monitor/signals.js	/^  SIGIO: 29,$/;"	p	class:module.exports
+SIGKILL	node_modules/nodemon/lib/monitor/signals.js	/^  SIGKILL: 9,$/;"	p	class:module.exports
+SIGPIPE	node_modules/nodemon/lib/monitor/signals.js	/^  SIGPIPE: 13,$/;"	p	class:module.exports
+SIGPROF	node_modules/nodemon/lib/monitor/signals.js	/^  SIGPROF: 27,$/;"	p	class:module.exports
+SIGPWR	node_modules/nodemon/lib/monitor/signals.js	/^  SIGPWR: 30,$/;"	p	class:module.exports
+SIGQUIT	node_modules/nodemon/lib/monitor/signals.js	/^  SIGQUIT: 3,$/;"	p	class:module.exports
+SIGRTMIN	node_modules/nodemon/lib/monitor/signals.js	/^  SIGRTMIN: 35,$/;"	p	class:module.exports
+SIGSEGV	node_modules/nodemon/lib/monitor/signals.js	/^  SIGSEGV: 11,$/;"	p	class:module.exports
+SIGSTKFLT	node_modules/nodemon/lib/monitor/signals.js	/^  SIGSTKFLT: 16,$/;"	p	class:module.exports
+SIGSTOP	node_modules/nodemon/lib/monitor/signals.js	/^  SIGSTOP: 19,$/;"	p	class:module.exports
+SIGSYS	node_modules/nodemon/lib/monitor/signals.js	/^  SIGSYS: 31,$/;"	p	class:module.exports
+SIGTERM	node_modules/nodemon/lib/monitor/signals.js	/^  SIGTERM: 15,$/;"	p	class:module.exports
+SIGTRAP	node_modules/nodemon/lib/monitor/signals.js	/^  SIGTRAP: 5,$/;"	p	class:module.exports
+SIGTSTP	node_modules/nodemon/lib/monitor/signals.js	/^  SIGTSTP: 20,$/;"	p	class:module.exports
+SIGTTIN	node_modules/nodemon/lib/monitor/signals.js	/^  SIGTTIN: 21,$/;"	p	class:module.exports
+SIGTTOU	node_modules/nodemon/lib/monitor/signals.js	/^  SIGTTOU: 22,$/;"	p	class:module.exports
+SIGURG	node_modules/nodemon/lib/monitor/signals.js	/^  SIGURG: 23,$/;"	p	class:module.exports
+SIGUSR1	node_modules/nodemon/lib/monitor/signals.js	/^  SIGUSR1: 10,$/;"	p	class:module.exports
+SIGUSR2	node_modules/nodemon/lib/monitor/signals.js	/^  SIGUSR2: 12,$/;"	p	class:module.exports
+SIGVTALRM	node_modules/nodemon/lib/monitor/signals.js	/^  SIGVTALRM: 26,$/;"	p	class:module.exports
+SIGWINCH	node_modules/nodemon/lib/monitor/signals.js	/^  SIGWINCH: 28,$/;"	p	class:module.exports
+SIGXCPU	node_modules/nodemon/lib/monitor/signals.js	/^  SIGXCPU: 24,$/;"	p	class:module.exports
+SIGXFSZ	node_modules/nodemon/lib/monitor/signals.js	/^  SIGXFSZ: 25,$/;"	p	class:module.exports
+SemVer	node_modules/semver/semver.js	/^SemVer.prototype.format = function () {$/;"	c
+SemVer	node_modules/semver/semver.js	/^SemVer.prototype.toString = function () {$/;"	c	class:SemVer
+SemVer	node_modules/simple-update-notifier/node_modules/semver/classes/index.js	/^  SemVer: require('.\/semver.js'),$/;"	p	class:module.exports
+[	node_modules/is-glob/index.js	/^var chars = { '{': '}', '(': ')', '[': ']'};$/;"	p	class:chars
+__awaiter	node_modules/simple-update-notifier/build/index.js	/^function __awaiter(thisArg, _arguments, P, generator) {$/;"	f
+__generator	node_modules/simple-update-notifier/build/index.js	/^function __generator(thisArg, body) {$/;"	f
+_interopDefaultLegacy	node_modules/simple-update-notifier/build/index.js	/^function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }$/;"	f
+_log	node_modules/nodemon/lib/utils/log.js	/^Logger.prototype._log = function (type, msg) {$/;"	m	class:Logger
+_typeof	node_modules/debug/src/browser.js	/^function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }$/;"	f
+a	node_modules/touch/bin/nodetouch.js	/^  a: 'atime',$/;"	p	class:const
+a	node_modules/undefsafe/example.js	/^  a: {$/;"	p	class:object
+add	node_modules/nodemon/lib/rules/add.js	/^function add(rules, which, rule) {$/;"	f
+add	node_modules/nodemon/lib/rules/index.js	/^var add = require('.\/add');$/;"	v
+adopt	node_modules/simple-update-notifier/build/index.js	/^    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }$/;"	f	function:__awaiter
+alnum	node_modules/picomatch/lib/constants.js	/^  alnum: 'a-zA-Z0-9',$/;"	p	class:const
+alpha	node_modules/picomatch/lib/constants.js	/^  alpha: 'a-zA-Z',$/;"	p	class:const
+alwaysStat	node_modules/chokidar/index.js	/^  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};$/;"	p	class:const
+aoa	node_modules/nopt/lib/nopt.js	/^    { aoa: Array$/;"	p
+ascii	node_modules/picomatch/lib/constants.js	/^  ascii: '\\\\x00-\\\\x7F',$/;"	p	class:const
+backslash	node_modules/glob-parent/index.js	/^var backslash = \/\\\\\/g;$/;"	v
+balanced	node_modules/balanced-match/index.js	/^function balanced(a, b, str) {$/;"	f
+balanced	node_modules/brace-expansion/index.js	/^var balanced = require('balanced-match');$/;"	v
+blank	node_modules/picomatch/lib/constants.js	/^  blank: ' \\\\t',$/;"	p	class:const
+borderedText	node_modules/simple-update-notifier/build/index.js	/^var borderedText = function (text) {$/;"	f
+braceExpand	node_modules/minimatch/minimatch.js	/^  m.braceExpand = function braceExpand (pattern, options) {$/;"	f
+branch	node_modules/nodemon/lib/version.js	/^function branch() {$/;"	f
+bus	node_modules/nodemon/lib/config/index.js	/^var bus = utils.bus;$/;"	v
+bus	node_modules/nodemon/lib/monitor/run.js	/^var bus = utils.bus;$/;"	v
+bus	node_modules/nodemon/lib/monitor/watch.js	/^var bus = utils.bus;$/;"	v
+bus	node_modules/nodemon/lib/nodemon.js	/^var bus = utils.bus;$/;"	v
+bus	node_modules/nodemon/lib/utils/log.js	/^var bus = require('.\/bus');$/;"	v
+bus.emit	node_modules/nodemon/lib/utils/bus.js	/^  bus.emit = function (event, data) {$/;"	f
+c	node_modules/touch/bin/nodetouch.js	/^  c: 'nocreate',$/;"	p	class:const
+callback	node_modules/nodemon/lib/config/load.js	/^  var callback = function (settings) {$/;"	f	function:loadFile
+child	node_modules/nodemon/lib/monitor/run.js	/^var child = null; \/\/ the actual child process we spawn$/;"	v
+childProcess	node_modules/nodemon/lib/monitor/run.js	/^var childProcess = require('child_process');$/;"	v
+chokidar	node_modules/nodemon/lib/monitor/watch.js	/^var chokidar = require('chokidar');$/;"	v
+cli	node_modules/nodemon/lib/nodemon.js	/^var cli = require('.\/cli');$/;"	v
+clone	node_modules/nodemon/lib/utils/clone.js	/^function clone(obj) {$/;"	f
+clone	node_modules/nodemon/lib/utils/merge.js	/^var clone = require('.\/clone');$/;"	v
+close	node_modules/braces/lib/parse.js	/^        close: false,$/;"	p	class:let
+cntrl	node_modules/picomatch/lib/constants.js	/^  cntrl: '\\\\x00-\\\\x1F\\\\x7F',$/;"	p	class:const
+coding	node_modules/nodemon/lib/utils/log.js	/^var coding = {$/;"	v
+coerce	node_modules/debug/src/common.js	/^  function coerce(val) {$/;"	f	function:setup
+collatePatterns	node_modules/to-regex-range/index.js	/^function collatePatterns(neg, pos, options) {$/;"	f
+collected	node_modules/nodemon/lib/utils/bus.js	/^var collected = {};$/;"	v
+colour	node_modules/nodemon/lib/utils/colour.js	/^function colour(c, str) {$/;"	f
+colour	node_modules/nodemon/lib/utils/log.js	/^var colour = require('.\/colour');$/;"	v
+colours	node_modules/nodemon/lib/config/defaults.js	/^  colours: true,$/;"	p	class:module.exports
+command	node_modules/nodemon/lib/config/command.js	/^function command(settings) {$/;"	f
+command	node_modules/nodemon/lib/config/index.js	/^var command = require('.\/command');$/;"	v
+command	node_modules/nodemon/lib/version.js	/^function command(cmd) {$/;"	f
+commas	node_modules/braces/lib/parse.js	/^        commas: 0,$/;"	p	class:let
+commit	node_modules/nodemon/lib/version.js	/^function commit() {$/;"	f
+compare	node_modules/semver/semver.js	/^SemVer.prototype.compare = function (other) {$/;"	m	class:SemVer.SemVer
+compare	node_modules/to-regex-range/index.js	/^function compare(a, b) {$/;"	f
+compareMain	node_modules/semver/semver.js	/^SemVer.prototype.compareMain = function (other) {$/;"	m	class:SemVer.SemVer
+concatMap	node_modules/brace-expansion/index.js	/^var concatMap = require('concat-map');$/;"	v
+concatMap	node_modules/concat-map/example/map.js	/^var concatMap = require('..\/');$/;"	v
+concatMap	node_modules/concat-map/test/map.js	/^var concatMap = require('..\/');$/;"	v
+config	node_modules/nodemon/lib/monitor/run.js	/^var config = require('..\/config');$/;"	v
+config	node_modules/nodemon/lib/monitor/watch.js	/^var config = require('..\/config');$/;"	v
+config	node_modules/nodemon/lib/nodemon.js	/^var config = require('.\/config');$/;"	v
+config.load	node_modules/nodemon/lib/config/index.js	/^config.load = function (settings, ready) {$/;"	f
+configDir	node_modules/simple-update-notifier/build/index.js	/^var configDir = process.env.XDG_CONFIG_HOME ||$/;"	v
+configFile	node_modules/nodemon/lib/config/load.js	/^  const packageLoadOptions = { configFile: filename };$/;"	p	class:const
+contains	node_modules/to-regex-range/index.js	/^function contains(arr, key, val) {$/;"	f
+convert	src/helpers/convert.js	/^function convert(input) {$/;"	f
+count	node_modules/chokidar/index.js	/^  const thr = {timeoutObject, clear, count: 0};$/;"	p	class:const
+countNines	node_modules/to-regex-range/index.js	/^function countNines(min, len) {$/;"	f
+countZeros	node_modules/to-regex-range/index.js	/^function countZeros(integer, zeros) {$/;"	f
+createConfigDir	node_modules/simple-update-notifier/build/index.js	/^var createConfigDir = function () {$/;"	f
+createDebug	node_modules/debug/src/common.js	/^  function createDebug(namespace) {$/;"	f	function:setup
+createFsWatchInstance	node_modules/chokidar/lib/nodefs-handler.js	/^function createFsWatchInstance(path, options, listener, errHandler, emitRaw) {$/;"	f
+d	node_modules/ms/index.js	/^var d = h * 24;$/;"	v
+data.argv.toString	node_modules/nopt/lib/nopt.js	/^  data.argv.toString = function () {$/;"	f
+debounce	node_modules/nodemon/lib/monitor/watch.js	/^function debounce(fn, delay) {$/;"	f
+debouncedBus	node_modules/nodemon/lib/monitor/watch.js	/^var debouncedBus;$/;"	v
+debug	node_modules/debug/src/common.js	/^    function debug() {$/;"	f	function:setup.createDebug
+debug	node_modules/minimatch/minimatch.js	/^Minimatch.prototype.debug = function () {}$/;"	m	class:Minimatch
+debug	node_modules/nodemon/lib/config/index.js	/^var debug = require('debug')('nodemon');$/;"	v
+debug	node_modules/nodemon/lib/config/load.js	/^var debug = require('debug')('nodemon');$/;"	v
+debug	node_modules/nodemon/lib/monitor/run.js	/^var debug = require('debug')('nodemon:run');$/;"	v
+debug	node_modules/nodemon/lib/monitor/watch.js	/^var debug = require('debug')('nodemon:watch');$/;"	v
+debug	node_modules/nodemon/lib/nodemon.js	/^var debug = require('debug')('nodemon');$/;"	v
+debug	node_modules/nodemon/lib/utils/bus.js	/^var debug = require('debug')('nodemon');$/;"	v
+debug	node_modules/nodemon/lib/utils/log.js	/^Logger.prototype.debug = false;$/;"	m	class:Logger
+debug	node_modules/semver/semver.js	/^  debug = function () {$/;"	f
+debugRoot	node_modules/nodemon/lib/monitor/watch.js	/^var debugRoot = require('debug')('nodemon');$/;"	v
+defaults	node_modules/minimatch/minimatch.js	/^  m.Minimatch.defaults = function defaults (options) {$/;"	f
+defaults	node_modules/nodemon/lib/config/load.js	/^var defaults = require('.\/defaults');$/;"	v
+depth	node_modules/picomatch/lib/scan.js	/^      token = { value: '', depth: 0, isGlob: false };$/;"	p	class:token
+depth	node_modules/picomatch/lib/scan.js	/^  let token = { value: '', depth: 0, isGlob: false };$/;"	p	class:let
+destroy	node_modules/debug/src/common.js	/^  function destroy() {$/;"	f	function:setup
+detail	node_modules/nodemon/lib/utils/log.js	/^  detail: 'yellow',$/;"	p	class:coding
+detail	node_modules/nodemon/lib/utils/log.js	/^Logger.prototype.detail = function (msg) {$/;"	m	class:Logger
+digit	node_modules/picomatch/lib/constants.js	/^  digit: '0-9',$/;"	p	class:const
+dirty	node_modules/nodemon/lib/version.js	/^function dirty() {$/;"	f
+disable	node_modules/debug/src/common.js	/^  function disable() {$/;"	f	function:setup
+dot	node_modules/chokidar/lib/constants.js	/^exports.ANYMATCH_OPTS = {dot: true};$/;"	p	class:exports.ANYMATCH_OPTS
+dot	node_modules/nodemon/lib/monitor/match.js	/^    dot: true,$/;"	p	class:match.minimatchOpts
+eat	node_modules/nodemon/lib/cli/parse.js	/^  var eat = function (i, args) {$/;"	f	function:parse
+embrace	node_modules/brace-expansion/index.js	/^function embrace(str) {$/;"	f
+emit	node_modules/nodemon/lib/utils/bus.js	/^var emit = bus.emit;$/;"	v
+enable	node_modules/debug/src/common.js	/^  function enable(namespaces) {$/;"	f	function:setup
+enabled	node_modules/debug/src/common.js	/^  function enabled(name) {$/;"	f	function:setup
+encoding	node_modules/readdirp/index.js	/^    this._rdOptions = { encoding: 'utf8', withFileTypes: this._isDirent };$/;"	p	class:_rdOptions
+env	node_modules/nodemon/lib/monitor/run.js	/^    env: Object.assign({}, process.env, options.execOptions.env, {$/;"	p	class:const
+env	node_modules/nodemon/lib/spawn.js	/^    env: merge(config.options.execOptions.env, env),$/;"	p	class:module.exports.spawnOptions
+errHandlers	node_modules/chokidar/lib/nodefs-handler.js	/^      errHandlers: errHandler,$/;"	p	class:cont
+error	node_modules/nodemon/lib/utils/log.js	/^  error: 'red',$/;"	p	class:coding
+escClose	node_modules/brace-expansion/index.js	/^var escClose = '\\0CLOSE'+Math.random()+'\\0';$/;"	v
+escComma	node_modules/brace-expansion/index.js	/^var escComma = '\\0COMMA'+Math.random()+'\\0';$/;"	v
+escOpen	node_modules/brace-expansion/index.js	/^var escOpen = '\\0OPEN'+Math.random()+'\\0';$/;"	v
+escPeriod	node_modules/brace-expansion/index.js	/^var escPeriod = '\\0PERIOD'+Math.random()+'\\0';$/;"	v
+escSlash	node_modules/brace-expansion/index.js	/^var escSlash = '\\0SLASH'+Math.random()+'\\0';$/;"	v
+escapeBraces	node_modules/brace-expansion/index.js	/^function escapeBraces(str) {$/;"	f
+events	node_modules/nodemon/lib/utils/bus.js	/^var events = require('events');$/;"	v
+exec	node_modules/nodemon/lib/config/exec.js	/^function exec(nodemonOptions, execMap) {$/;"	f
+exec	node_modules/nodemon/lib/config/load.js	/^var exec = require('.\/exec');$/;"	v
+exec	node_modules/nodemon/lib/monitor/run.js	/^var exec = childProcess.exec;$/;"	v
+exec	node_modules/nodemon/lib/version.js	/^var exec = require('child_process').exec;$/;"	v
+execFromPackage	node_modules/nodemon/lib/config/exec.js	/^function execFromPackage() {$/;"	f
+execMap	node_modules/nodemon/lib/config/defaults.js	/^  execMap: {$/;"	p	class:module.exports
+execSync	node_modules/nodemon/lib/monitor/run.js	/^var execSync = childProcess.execSync;$/;"	v
+exists	node_modules/nodemon/lib/config/load.js	/^var exists = fs.exists || path.exists;$/;"	v
+existsSync	node_modules/nodemon/lib/cli/parse.js	/^var existsSync = fs.existsSync || path.existsSync;$/;"	v
+existsSync	node_modules/nodemon/lib/config/load.js	/^var existsSync = fs.existsSync || path.existsSync;$/;"	v
+expand	node_modules/brace-expansion/index.js	/^function expand(str, isTop) {$/;"	f
+expandScript	node_modules/nodemon/lib/config/exec.js	/^function expandScript(script, ext) {$/;"	f
+expandTop	node_modules/brace-expansion/index.js	/^function expandTop(str) {$/;"	f
+extend	node_modules/debug/src/common.js	/^  function extend(namespace, delimiter) {$/;"	f	function:setup
+extends	node_modules/nodemon/commitlint.config.js	/^  extends: ['@commitlint\/config-conventional'],$/;"	p	class:module.exports
+f	node_modules/touch/bin/nodetouch.js	/^  f: 'force'$/;"	p	class:const
+fail	node_modules/nodemon/lib/utils/log.js	/^  fail: 'red',$/;"	p	class:coding
+fastpaths	node_modules/picomatch/lib/picomatch.js	/^  let parsed = { negated: false, fastpaths: true };$/;"	p	class:let
+filter	node_modules/minimatch/minimatch.js	/^  m.filter = function filter (pattern, options) {$/;"	f
+filterAndRestart	node_modules/nodemon/lib/monitor/watch.js	/^function filterAndRestart(files) {$/;"	f
+filterPatterns	node_modules/to-regex-range/index.js	/^function filterPatterns(arr, comparison, prefix, intersection, options) {$/;"	f
+findAppScript	node_modules/nodemon/lib/config/load.js	/^function findAppScript() {$/;"	f
+findPackage	node_modules/nodemon/lib/version.js	/^function findPackage(dir) {$/;"	f
+fmtLong	node_modules/ms/index.js	/^function fmtLong(ms) {$/;"	f
+fmtShort	node_modules/ms/index.js	/^function fmtShort(ms) {$/;"	f
+foofoo	node_modules/nopt/examples/my-program.js	/^  , shortHands = { "foofoo" : ["--foo", "Mr. Foo"]$/;"	p
+fork	node_modules/nodemon/lib/monitor/run.js	/^var fork = childProcess.fork;$/;"	v
+format	node_modules/semver/semver.js	/^SemVer.prototype.format = function () {$/;"	m	class:SemVer
+formatArgs	node_modules/debug/src/browser.js	/^function formatArgs(args) {$/;"	f
+formatArgs	node_modules/debug/src/node.js	/^function formatArgs(args) {$/;"	f
+formatters	node_modules/debug/src/browser.js	/^var formatters = module.exports.formatters;$/;"	v
+formatters	node_modules/debug/src/node.js	/^var formatters = module.exports.formatters;$/;"	v
+formatters.O	node_modules/debug/src/node.js	/^formatters.O = function (v) {$/;"	c
+formatters.j	node_modules/debug/src/browser.js	/^formatters.j = function (v) {$/;"	f
+formatters.o	node_modules/debug/src/node.js	/^formatters.o = function (v) {$/;"	c
+fs	node_modules/nodemon/lib/cli/parse.js	/^var fs = require('fs');$/;"	v
+fs	node_modules/nodemon/lib/config/load.js	/^var fs = require('fs');$/;"	v
+fs	node_modules/nodemon/lib/help/index.js	/^var fs = require('fs');$/;"	v
+fs	node_modules/nodemon/lib/rules/parse.js	/^var fs = require('fs');$/;"	v
+fs	node_modules/nodemon/lib/version.js	/^var fs = require('fs');$/;"	v
+fs	node_modules/simple-update-notifier/build/index.js	/^var fs = require('fs');$/;"	v
+gal	src/helpers/convert.js	/^	'gal':{value: 3.78541, sisUnit: 'l'},$/;"	p	class:const
+getConfigFile	node_modules/simple-update-notifier/build/index.js	/^var getConfigFile = function (packageName) {$/;"	f
+getDate	node_modules/debug/src/node.js	/^function getDate() {$/;"	f
+getDistVersion	node_modules/simple-update-notifier/build/index.js	/^var getDistVersion = function (packageName, distTag) { return __awaiter(void 0, void 0, void 0, function () {$/;"	f
+getLastUpdate	node_modules/simple-update-notifier/build/index.js	/^var getLastUpdate = function (packageName) {$/;"	f
+getStat	node_modules/pstree.remy/lib/utils.js	/^function getStat() {$/;"	f
+getSupportLevel	node_modules/supports-color/index.js	/^function getSupportLevel(stream) {$/;"	f
+globParent	node_modules/glob-parent/index.js	/^module.exports = function globParent(str, opts) {$/;"	f
+globUnescape	node_modules/minimatch/minimatch.js	/^function globUnescape (s) {$/;"	f	function:function
+graph	node_modules/picomatch/lib/constants.js	/^  graph: '\\\\x21-\\\\x7E',$/;"	p	class:const
+gte	node_modules/brace-expansion/index.js	/^function gte(i, y) {$/;"	f
+h	node_modules/ms/index.js	/^var h = m * 60;$/;"	v
+hasNewVersion	node_modules/simple-update-notifier/build/index.js	/^var hasNewVersion = function (_a) {$/;"	f
+hasPS	node_modules/pstree.remy/lib/index.js	/^var hasPS = true;$/;"	v
+hasPadding	node_modules/to-regex-range/index.js	/^function hasPadding(str) {$/;"	f
+help	node_modules/nodemon/lib/help/index.js	/^function help(item) {$/;"	f
+help	node_modules/nodemon/lib/nodemon.js	/^var help = require('.\/help');$/;"	v
+homeDirectory	node_modules/simple-update-notifier/build/index.js	/^var homeDirectory = os__default["default"].homedir();$/;"	v
+https	node_modules/simple-update-notifier/build/index.js	/^var https = require('https');$/;"	v
+identity	node_modules/brace-expansion/index.js	/^function identity(e) {$/;"	f
+ignore	node_modules/nodemon/lib/config/index.js	/^  config.options = { ignore: [], watch: [], monitor: [] };$/;"	p	class:config.options
+ignore	node_modules/nodemon/lib/rules/index.js	/^  ignore: {$/;"	p	class:module.exports
+ignore	node_modules/nodemon/lib/rules/index.js	/^var rules = { ignore: [], watch: [] };$/;"	p	class:rules
+ignore	node_modules/nodemon/lib/rules/parse.js	/^    ignore: [],$/;"	p	class:parse.rules
+ignoreRoot	node_modules/nodemon/lib/config/defaults.js	/^var ignoreRoot = require('ignore-by-default').directories();$/;"	v
+includePrerelease	node_modules/simple-update-notifier/node_modules/semver/bin/semver.js	/^  const options = { loose: loose, includePrerelease: includePrerelease, rtl: rtl }$/;"	p	class:const
+index	node_modules/picomatch/lib/parse.js	/^    index: -1,$/;"	p	class:const
+info	node_modules/nodemon/lib/utils/log.js	/^  info: 'yellow',$/;"	p	class:coding
+init	node_modules/debug/src/node.js	/^function init(debug) {$/;"	f
+intersects	node_modules/semver/semver.js	/^Comparator.prototype.intersects = function (comp, options) {$/;"	m	class:Comparator
+isExtglob	node_modules/is-extglob/index.js	/^module.exports = function isExtglob(str) {$/;"	f
+isExtglob	node_modules/is-glob/index.js	/^var isExtglob = require('is-extglob');$/;"	v
+isGlob	node_modules/glob-parent/index.js	/^var isGlob = require('is-glob');$/;"	v
+isGlob	node_modules/is-glob/index.js	/^module.exports = function isGlob(str, options) {$/;"	f
+isGlob	node_modules/picomatch/lib/scan.js	/^      token = { value: '', depth: 0, isGlob: false };$/;"	p	class:token
+isGlob	node_modules/picomatch/lib/scan.js	/^  let token = { value: '', depth: 0, isGlob: false };$/;"	p	class:let
+isNpm	node_modules/simple-update-notifier/build/index.js	/^var isNpm = isNpm6 || isNpm7;$/;"	v
+isNpm6	node_modules/simple-update-notifier/build/index.js	/^var isNpm6 = Boolean(userAgent && userAgent.startsWith('npm'));$/;"	v
+isNpm7	node_modules/simple-update-notifier/build/index.js	/^var isNpm7 = Boolean(packageJson && packageJson.endsWith('package.json'));$/;"	v
+isNpmOrYarn	node_modules/simple-update-notifier/build/index.js	/^var isNpmOrYarn = isNpm || isYarn;$/;"	v
+isPadded	node_modules/brace-expansion/index.js	/^function isPadded(el) {$/;"	f
+isWin32	node_modules/glob-parent/index.js	/^var isWin32 = require('os').platform() === 'win32';$/;"	v
+isYarn	node_modules/simple-update-notifier/build/index.js	/^var isYarn = Boolean(userAgent && userAgent.startsWith('yarn'));$/;"	v
+kill	node_modules/nodemon/lib/monitor/run.js	/^function kill(child, signal, callback) {$/;"	f
+killedAfterChange	node_modules/nodemon/lib/monitor/run.js	/^var killedAfterChange = false;$/;"	v
+label	node_modules/simple-update-notifier/build/index.js	/^    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;$/;"	p	class:__generator._
+listeners	node_modules/chokidar/lib/fsevents-handler.js	/^      listeners: new Set([filteredListener]),$/;"	p	class:cont
+listeners	node_modules/chokidar/lib/nodefs-handler.js	/^      listeners: listener,$/;"	p	class:cont
+load	node_modules/debug/src/browser.js	/^function load() {$/;"	f
+load	node_modules/debug/src/node.js	/^function load() {$/;"	f
+load	node_modules/nodemon/lib/config/index.js	/^var load = require('.\/load');$/;"	v
+load	node_modules/nodemon/lib/config/load.js	/^function load(settings, options, config, callback) {$/;"	f
+load	node_modules/nodemon/lib/rules/index.js	/^  load: load,$/;"	p	class:module.exports
+load	node_modules/nodemon/lib/rules/index.js	/^function load(filename, callback) {$/;"	f
+loadFile	node_modules/nodemon/lib/config/load.js	/^function loadFile(options, config, dir, ready) {$/;"	f
+loadLegacyIgnore	node_modules/nodemon/lib/config/load.js	/^function loadLegacyIgnore(options, config, success, filename, fail) {$/;"	f
+loadPackageJSON	node_modules/nodemon/lib/config/load.js	/^function loadPackageJSON(config, ready) {$/;"	f
+localstorage	node_modules/debug/src/browser.js	/^function localstorage() {$/;"	f
+log	node_modules/debug/src/browser.js	/^function log() {$/;"	f
+log	node_modules/debug/src/node.js	/^function log() {$/;"	f
+log	node_modules/nodemon/lib/utils/log.js	/^  log: 'black',$/;"	p	class:coding
+log	node_modules/nodemon/lib/utils/log.js	/^function log(type, text) {$/;"	f
+loose	node_modules/semver/semver.js	/^      loose: !!options,$/;"	p	class:options
+loose	node_modules/simple-update-notifier/node_modules/semver/bin/semver.js	/^  const options = { loose: loose, includePrerelease: includePrerelease, rtl: rtl }$/;"	p	class:const
+loose	node_modules/simple-update-notifier/node_modules/semver/classes/comparator.js	/^        loose: !!options,$/;"	p	class:constructor
+loose	node_modules/simple-update-notifier/node_modules/semver/classes/comparator.js	/^        loose: !!options,$/;"	p	class:options
+loose	node_modules/simple-update-notifier/node_modules/semver/classes/range.js	/^        loose: !!options,$/;"	p	class:class
+loose	node_modules/simple-update-notifier/node_modules/semver/classes/semver.js	/^        loose: !!options,$/;"	p	class:constructor
+loose	node_modules/simple-update-notifier/node_modules/semver/functions/parse.js	/^      loose: !!options,$/;"	p	class:options
+lower	node_modules/picomatch/lib/constants.js	/^  lower: 'a-z',$/;"	p	class:const
+lstat	node_modules/chokidar/index.js	/^  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};$/;"	p	class:const
+lte	node_modules/brace-expansion/index.js	/^function lte(i, y) {$/;"	f
+m	node_modules/ms/index.js	/^var m = s * 60;$/;"	v
+m	node_modules/touch/bin/nodetouch.js	/^  m: 'mtime',$/;"	p	class:const
+m.Minimatch	node_modules/minimatch/minimatch.js	/^  m.Minimatch = function Minimatch (pattern, options) {$/;"	f
+m.Minimatch.defaults	node_modules/minimatch/minimatch.js	/^  m.Minimatch.defaults = function defaults (options) {$/;"	f
+m.braceExpand	node_modules/minimatch/minimatch.js	/^  m.braceExpand = function braceExpand (pattern, options) {$/;"	f
+m.defaults	node_modules/minimatch/minimatch.js	/^  m.defaults = function defaults (options) {$/;"	f
+m.filter	node_modules/minimatch/minimatch.js	/^  m.filter = function filter (pattern, options) {$/;"	f
+m.makeRe	node_modules/minimatch/minimatch.js	/^  m.makeRe = function makeRe (pattern, options) {$/;"	f
+m.match	node_modules/minimatch/minimatch.js	/^  m.match = function (list, pattern, options) {$/;"	f
+main	node_modules/pstree.remy/lib/index.js	/^module.exports = function main(pid, callback) {$/;"	f
+make	node_modules/minimatch/minimatch.js	/^Minimatch.prototype.make = make$/;"	m	class:Minimatch
+makeRe	node_modules/minimatch/minimatch.js	/^  m.makeRe = function makeRe (pattern, options) {$/;"	f
+makeRe	node_modules/minimatch/minimatch.js	/^Minimatch.prototype.makeRe = makeRe$/;"	m	class:Minimatch
+match	node_modules/nodemon/lib/monitor/match.js	/^function match(files, monitor, ext) {$/;"	f
+match	node_modules/nodemon/lib/monitor/watch.js	/^var match = require('.\/match');$/;"	v
+maybeMatch	node_modules/balanced-match/index.js	/^function maybeMatch(reg, str) {$/;"	f
+merge	node_modules/nodemon/lib/utils/merge.js	/^function merge(source, target, result) {$/;"	f
+minimatch	node_modules/minimatch/minimatch.js	/^function minimatch (p, pattern, options) {$/;"	f	function:ext
+minimatch	node_modules/minimatch/minimatch.js	/^minimatch.match = function (list, pattern, options) {$/;"	m	class:Minimatch.var
+minimatch.braceExpand	node_modules/minimatch/minimatch.js	/^minimatch.braceExpand = function (pattern, options) {$/;"	f	function:Minimatch.var.Minimatch
+minimatch.defaults	node_modules/minimatch/minimatch.js	/^minimatch.defaults = function (def) {$/;"	f
+minimatch.makeRe	node_modules/minimatch/minimatch.js	/^minimatch.makeRe = function (pattern, options) {$/;"	f
+module.exports	node_modules/concat-map/index.js	/^module.exports = function (xs, fn) {$/;"	f
+module.exports	node_modules/glob-parent/index.js	/^module.exports = function globParent(str, opts) {$/;"	f
+module.exports	node_modules/is-extglob/index.js	/^module.exports = function isExtglob(str) {$/;"	f
+module.exports	node_modules/is-glob/index.js	/^module.exports = function isGlob(str, options) {$/;"	f
+module.exports	node_modules/is-number/index.js	/^module.exports = function(num) {$/;"	f
+module.exports	node_modules/ms/index.js	/^module.exports = function (val, options) {$/;"	f
+module.exports	node_modules/nodemon/lib/spawn.js	/^module.exports = function spawnCommand(command, config, eventArgs) {$/;"	f
+module.exports	node_modules/normalize-path/index.js	/^module.exports = function(path, stripTrailing) {$/;"	f
+module.exports	node_modules/pstree.remy/lib/index.js	/^module.exports = function main(pid, callback) {$/;"	f
+module.exports	node_modules/pstree.remy/lib/tree.js	/^module.exports = function (rootPid, callback) {$/;"	f
+monitor	node_modules/nodemon/lib/nodemon.js	/^var monitor = require('.\/monitor');$/;"	v
+mutateExecOptions	node_modules/nodemon/lib/config/load.js	/^function mutateExecOptions(options) {$/;"	f
+negated	node_modules/picomatch/lib/picomatch.js	/^  let parsed = { negated: false, fastpaths: true };$/;"	p	class:let
+negatives	node_modules/fill-range/index.js	/^  let parts = { negatives: [], positives: [] };$/;"	p	class:let
+next	node_modules/simple-update-notifier/build/index.js	/^    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;$/;"	p	class:return
+nodemon	node_modules/nodemon/lib/nodemon.js	/^function nodemon(settings) {$/;"	f
+nodemon.emit	node_modules/nodemon/lib/nodemon.js	/^nodemon.emit = function () {$/;"	f
+nodemon.once	node_modules/nodemon/lib/nodemon.js	/^nodemon.once = function (event, handler) {$/;"	f
+nodemon.removeAllListeners	node_modules/nodemon/lib/nodemon.js	/^nodemon.removeAllListeners = function (event) {$/;"	f
+nodemon.reset	node_modules/nodemon/lib/nodemon.js	/^nodemon.reset = function (done) {$/;"	f
+nodemon.restart	node_modules/nodemon/lib/nodemon.js	/^nodemon.restart = function () {$/;"	f
+nodemonOption	node_modules/nodemon/lib/cli/parse.js	/^function nodemonOption(options, arg, eatNext) {$/;"	f
+nodes	node_modules/braces/lib/parse.js	/^        nodes: []$/;"	p	class:let
+nodes	node_modules/braces/lib/parse.js	/^  let ast = { type: 'root', input, nodes: [] };$/;"	p	class:let
+noop	node_modules/nodemon/lib/utils/index.js	/^var noop = function () { };$/;"	f
+nopt	node_modules/nopt/lib/nopt.js	/^function nopt (types, shorthands, args, slice) {$/;"	f
+normaliseRules	node_modules/nodemon/lib/config/load.js	/^function normaliseRules(options, ready) {$/;"	f
+nullstream	node_modules/nopt/lib/nopt.js	/^    , nullstream: [null, Stream]$/;"	p
+numeric	node_modules/brace-expansion/index.js	/^function numeric(str) {$/;"	f
+open	node_modules/braces/lib/parse.js	/^        open: true,$/;"	p	class:let
+os	node_modules/simple-update-notifier/build/index.js	/^var os = require('os');$/;"	v
+output	node_modules/picomatch/lib/parse.js	/^  const bos = { type: 'bos', value: '', output: opts.prepend || '' };$/;"	p	class:const
+packageJson	node_modules/simple-update-notifier/build/index.js	/^var packageJson = process__default["default"].env.npm_package_json;$/;"	v
+padZeros	node_modules/to-regex-range/index.js	/^function padZeros(value, tok, options) {$/;"	f
+parse	node_modules/ms/index.js	/^function parse(str) {$/;"	f
+parse	node_modules/nodemon/lib/cli/index.js	/^  parse: function (argv) {$/;"	m	class:module.exports
+parse	node_modules/nodemon/lib/cli/index.js	/^var parse = require('.\/parse');$/;"	v
+parse	node_modules/nodemon/lib/cli/parse.js	/^function parse(argv) {$/;"	f
+parse	node_modules/nodemon/lib/config/load.js	/^var parse = require('..\/rules\/parse');$/;"	v
+parse	node_modules/nodemon/lib/rules/index.js	/^var parse = require('.\/parse');$/;"	v
+parse	node_modules/nodemon/lib/rules/parse.js	/^function parse(filename, callback) {$/;"	f
+parseCommaParts	node_modules/brace-expansion/index.js	/^function parseCommaParts(str) {$/;"	f
+parseDelay	node_modules/nodemon/lib/cli/parse.js	/^function parseDelay(value) {$/;"	f
+parseRange	node_modules/semver/semver.js	/^Range.prototype.parseRange = function (range) {$/;"	m	class:Range.Range
+path	node_modules/nodemon/lib/cli/parse.js	/^var path = require('path');$/;"	v
+path	node_modules/nodemon/lib/config/load.js	/^var path = require('path');$/;"	v
+path	node_modules/nodemon/lib/help/index.js	/^var path = require('path');$/;"	v
+path	node_modules/nodemon/lib/monitor/run.js	/^var path = require('path');$/;"	v
+path	node_modules/nodemon/lib/monitor/watch.js	/^var path = require('path');$/;"	v
+path	node_modules/nodemon/lib/nodemon.js	/^var path = require('path');$/;"	v
+path	node_modules/nodemon/lib/utils/index.js	/^var path = require('path');$/;"	v
+path	node_modules/nodemon/lib/version.js	/^var path = require('path');$/;"	v
+path	node_modules/readdirp/index.js	/^      entry = { path: sysPath.relative(this._root, fullPath), fullPath, basename };$/;"	p	class:entry
+path	node_modules/simple-update-notifier/build/index.js	/^var path = require('path');$/;"	v
+pathPosixDirname	node_modules/glob-parent/index.js	/^var pathPosixDirname = require('path').posix.dirname;$/;"	v
+persistent	node_modules/chokidar/lib/nodefs-handler.js	/^  const options = {persistent: opts.persistent};$/;"	p	class:const
+pidsForTree	node_modules/pstree.remy/lib/utils.js	/^function pidsForTree(tree, pid) {$/;"	f
+pin	node_modules/nodemon/lib/version.js	/^function pin() {$/;"	f
+pinVersion	node_modules/nodemon/lib/config/index.js	/^var pinVersion = require('..\/version').pin;$/;"	v
+plural	node_modules/ms/index.js	/^function plural(ms, msAbs, n, name) {$/;"	f
+print	node_modules/picomatch/lib/constants.js	/^  print: '\\\\x20-\\\\x7E ',$/;"	p	class:const
+process$1	node_modules/simple-update-notifier/build/index.js	/^var process$1 = require('process');$/;"	v
+psTree	node_modules/nodemon/lib/monitor/run.js	/^var psTree = require('pstree.remy');$/;"	v
+punct	node_modules/picomatch/lib/constants.js	/^  punct: '\\\\-!"#$%&\\'()\\\\*+,.\/:;<=>?@[\\\\]^_`{|}~',$/;"	p	class:const
+r	node_modules/touch/bin/nodetouch.js	/^  r: 'ref',$/;"	p	class:const
+range	node_modules/balanced-match/index.js	/^function range(a, b, str) {$/;"	f
+rangeToPattern	node_modules/to-regex-range/index.js	/^function rangeToPattern(start, stop, options) {$/;"	f
+ranges	node_modules/braces/lib/parse.js	/^        ranges: 0,$/;"	p	class:let
+rawEmitters	node_modules/chokidar/lib/nodefs-handler.js	/^      rawEmitters: rawEmitter,$/;"	p	class:cont
+reAsterisk	node_modules/nodemon/lib/rules/add.js	/^var reAsterisk = \/\\*\/g;$/;"	v
+reComments	node_modules/nodemon/lib/rules/add.js	/^var reComments = \/#.*$\/;$/;"	v
+reEscComments	node_modules/nodemon/lib/rules/add.js	/^var reEscComments = \/\\\\#\/g;$/;"	v
+reEscapeChars	node_modules/nodemon/lib/rules/add.js	/^var reEscapeChars = \/[.|\\-[\\]()\\\\]\/g;$/;"	v
+reUnescapeComments	node_modules/nodemon/lib/rules/add.js	/^var reUnescapeComments = \/\\^\\^\/g;$/;"	v
+ready	node_modules/nodemon/lib/config/load.js	/^    ready = function () { };$/;"	f
+regExpEscape	node_modules/minimatch/minimatch.js	/^function regExpEscape (s) {$/;"	f	function:function
+rejected	node_modules/simple-update-notifier/build/index.js	/^        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }$/;"	f
+relaxZeros	node_modules/to-regex-range/index.js	/^  let opts = { relaxZeros: true, ...options };$/;"	p	class:let
+relaxedCheck	node_modules/is-glob/index.js	/^var relaxedCheck = function(str) {$/;"	f
+replace	node_modules/nodemon/lib/config/exec.js	/^function replace(map, str) {$/;"	f
+replaceCarets	node_modules/semver/semver.js	/^function replaceCarets (comp, options) {$/;"	f	function:isX.replaceTilde
+replaceStars	node_modules/semver/semver.js	/^function replaceStars (comp, options) {$/;"	f	function:replaceXRange
+replaceTildes	node_modules/semver/semver.js	/^function replaceTildes (comp, options) {$/;"	f	function:isX
+replaceXRanges	node_modules/semver/semver.js	/^function replaceXRanges (comp, options) {$/;"	f	function:replaceCaret
+required	node_modules/nodemon/lib/utils/log.js	/^Logger.prototype.required = function (val) {$/;"	m	class:Logger
+required	node_modules/nodemon/lib/utils/log.js	/^var required = false;$/;"	v
+reset	node_modules/nodemon/lib/config/index.js	/^function reset() {$/;"	f
+reset	node_modules/nodemon/lib/rules/index.js	/^  reset: function () { \/\/ just used for testing$/;"	m	class:module.exports
+resetWatchers	node_modules/nodemon/lib/monitor/watch.js	/^function resetWatchers() {$/;"	f
+restart	node_modules/nodemon/lib/monitor/run.js	/^var restart = null;$/;"	v
+restartBus	node_modules/nodemon/lib/monitor/watch.js	/^function restartBus(matched) {$/;"	f
+restartable	node_modules/nodemon/lib/config/defaults.js	/^  restartable: 'rs',$/;"	p	class:module.exports
+result	node_modules/nodemon/lib/monitor/match.js	/^  var result = good.concat(whitelist);$/;"	v
+return	node_modules/concat-map/index.js	/^    return Object.prototype.toString.call(xs) === '[object Array]';$/;"	c
+returnIndex	node_modules/anymatch/index.js	/^const DEFAULT_OPTIONS = {returnIndex: false};$/;"	p	class:const
+root	node_modules/nodemon/lib/version.js	/^var root = null;$/;"	v
+rtl	node_modules/simple-update-notifier/node_modules/semver/bin/semver.js	/^  const options = { loose: loose, includePrerelease: includePrerelease, rtl: rtl }$/;"	p	class:const
+rules	node_modules/nodemon/lib/config/index.js	/^var rules = require('..\/rules');$/;"	v
+rules	node_modules/nodemon/lib/config/load.js	/^var rules = require('..\/rules');$/;"	v
+rulesToMonitor	node_modules/nodemon/lib/config/index.js	/^var rulesToMonitor = require('..\/monitor\/match').rulesToMonitor;$/;"	v
+rulesToMonitor	node_modules/nodemon/lib/monitor/match.js	/^function rulesToMonitor(watch, ignore, config) {$/;"	f
+run	node_modules/nodemon/lib/config/index.js	/^  run: false,$/;"	p	class:config
+run	node_modules/nodemon/lib/monitor/index.js	/^  run: require('.\/run'),$/;"	p	class:module.exports
+run	node_modules/nodemon/lib/monitor/run.js	/^function run(options) {$/;"	f
+run	node_modules/pstree.remy/tests/fixtures/index.js	/^function run() {$/;"	f
+run.kill	node_modules/nodemon/lib/monitor/run.js	/^run.kill = function (noRestart, callback) {$/;"	f
+runCallCount	node_modules/pstree.remy/tests/fixtures/index.js	/^var runCallCount = process.argv[2] || 1;$/;"	v
+s	node_modules/ms/index.js	/^var s = 1000;$/;"	v
+s	node_modules/nopt/bin/nopt.js	/^  , shorthands = { s: [ "--str", "astring" ]$/;"	p
+save	node_modules/debug/src/browser.js	/^function save(namespaces) {$/;"	f
+save	node_modules/debug/src/node.js	/^function save(namespaces) {$/;"	f
+saveLastUpdate	node_modules/simple-update-notifier/build/index.js	/^var saveLastUpdate = function (packageName) {$/;"	f
+scriptPosition	node_modules/nodemon/lib/cli/parse.js	/^  var nodemonOptions = { scriptPosition: null };$/;"	p	class:parse.nodemonOptions
+selectColor	node_modules/debug/src/common.js	/^  function selectColor(namespace) {$/;"	f	function:setup
+semver	node_modules/simple-update-notifier/build/index.js	/^var semver = require('semver');$/;"	v
+sent	node_modules/simple-update-notifier/build/index.js	/^    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;$/;"	m	class:__generator._
+setFSEventsListener	node_modules/chokidar/lib/fsevents-handler.js	/^function setFSEventsListener(path, realPath, listener, rawEmitter) {$/;"	f
+setup	node_modules/debug/src/common.js	/^function setup(env) {$/;"	f
+signals	node_modules/nodemon/lib/monitor/run.js	/^var signals = require('.\/signals');$/;"	v
+simpleUpdateNotifier	node_modules/simple-update-notifier/build/index.js	/^var simpleUpdateNotifier = function (args) { return __awaiter(void 0, void 0, void 0, function () {$/;"	f
+slash	node_modules/glob-parent/index.js	/^var slash = '\/';$/;"	v
+space	node_modules/picomatch/lib/constants.js	/^  space: ' \\\\t\\\\r\\\\n\\\\v\\\\f',$/;"	p	class:const
+spawn	node_modules/nodemon/lib/monitor/run.js	/^var spawn = childProcess.spawn;$/;"	v
+spawn	node_modules/nodemon/lib/nodemon.js	/^var spawn = require('.\/spawn');$/;"	v
+spawnCommand	node_modules/nodemon/lib/spawn.js	/^module.exports = function spawnCommand(command, config, eventArgs) {$/;"	f
+split	node_modules/undefsafe/lib/undefsafe.js	/^  function split(path) {$/;"	f	function:undefsafe
+splitToPatterns	node_modules/to-regex-range/index.js	/^function splitToPatterns(min, max, tok, options) {$/;"	f
+splitToRanges	node_modules/to-regex-range/index.js	/^function splitToRanges(min, max) {$/;"	f
+status	node_modules/nodemon/lib/utils/log.js	/^  status: 'green',$/;"	p	class:coding
+stderr	node_modules/nodemon/lib/monitor/run.js	/^      stderr: function (data) {$/;"	m	class:emit
+stderr	node_modules/nodemon/lib/spawn.js	/^      stderr: function (data) {$/;"	m	class:emit
+stderr	node_modules/supports-color/browser.js	/^	stderr: false$/;"	p	class:module.exports
+stdout	node_modules/nodemon/lib/monitor/run.js	/^      stdout: function (data) {$/;"	m	class:var.emit
+stdout	node_modules/nodemon/lib/spawn.js	/^      stdout: function (data) {$/;"	m	class:var.emit
+stdout	node_modules/supports-color/browser.js	/^	stdout: false,$/;"	p	class:module.exports
+stdout	node_modules/supports-color/index.js	/^	stdout: getSupportLevel(process.stdout),$/;"	p	class:module.exports
+step	node_modules/simple-update-notifier/build/index.js	/^        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }$/;"	f
+strictCheck	node_modules/is-glob/index.js	/^var strictCheck = function(str) {$/;"	f
+stringToArgs	node_modules/nodemon/lib/cli/index.js	/^function stringToArgs(string) {$/;"	f
+strip	node_modules/nodemon/lib/utils/colour.js	/^function strip(str) {$/;"	f
+supportsColor	node_modules/supports-color/index.js	/^	supportsColor: getSupportLevel,$/;"	p	class:module.exports
+supportsColor	node_modules/supports-color/index.js	/^function supportsColor(stream) {$/;"	f
+system	node_modules/nodemon/lib/config/index.js	/^  system: {$/;"	p	class:config
+t	node_modules/touch/bin/nodetouch.js	/^  t: 'time'$/;"	p	class:const
+template	node_modules/pstree.remy/lib/utils.js	/^function template(s) {$/;"	f
+test	node_modules/concat-map/test/map.js	/^var test = require('tape');$/;"	v
+test	node_modules/semver/semver.js	/^Comparator.prototype.test = function (version) {$/;"	m	class:Comparator.this.Comparator
+test	node_modules/semver/semver.js	/^Range.prototype.test = function (version) {$/;"	m	class:Range
+testSet	node_modules/semver/semver.js	/^function testSet (set, version, options) {$/;"	f	function:function
+testTree	node_modules/pstree.remy/tests/index.test.js	/^function testTree(t, runCallCount) {$/;"	f
+toCharacterClass	node_modules/to-regex-range/index.js	/^function toCharacterClass(a, b, options) {$/;"	f
+toQuantifier	node_modules/to-regex-range/index.js	/^function toQuantifier(digits) {$/;"	f
+toString	node_modules/concat-map/index.js	/^    return Object.prototype.toString.call(xs) === '[object Array]';$/;"	m	class:return
+translateLevel	node_modules/supports-color/index.js	/^function translateLevel(level) {$/;"	f
+tree	node_modules/pstree.remy/lib/utils.js	/^function tree(stats) {$/;"	f
+tryBaseDir	node_modules/nodemon/lib/monitor/match.js	/^function tryBaseDir(dir) {$/;"	f
+trys	node_modules/simple-update-notifier/build/index.js	/^    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;$/;"	p	class:_
+tty	node_modules/debug/src/node.js	/^var tty = require('tty');$/;"	v
+type	node_modules/braces/lib/parse.js	/^        type: 'brace',$/;"	p	class:let
+type	node_modules/braces/lib/parse.js	/^  let ast = { type: 'root', input, nodes: [] };$/;"	p	class:let
+type	node_modules/chokidar/index.js	/^  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};$/;"	p	class:const
+type	node_modules/picomatch/lib/parse.js	/^  const bos = { type: 'bos', value: '', output: opts.prepend || '' };$/;"	p	class:const
+typesMatch	node_modules/nodemon/lib/utils/merge.js	/^function typesMatch(a, b) {$/;"	f
+undefsafe	node_modules/nodemon/lib/monitor/watch.js	/^var undefsafe = require('undefsafe');$/;"	v
+undefsafe	node_modules/undefsafe/example.js	/^var undefsafe = require('undefsafe');$/;"	v
+undefsafe	node_modules/undefsafe/lib/undefsafe.js	/^function undefsafe(obj, path, value, __res) {$/;"	f
+unescapeBraces	node_modules/brace-expansion/index.js	/^function unescapeBraces(str) {$/;"	f
+upper	node_modules/picomatch/lib/constants.js	/^  upper: 'A-Z',$/;"	p	class:const
+use strict.directories	node_modules/ignore-by-default/index.js	/^'use strict'$/;"	f
+useColors	node_modules/debug/src/browser.js	/^function useColors() {$/;"	f
+useColors	node_modules/debug/src/node.js	/^function useColors() {$/;"	f
+useColours	node_modules/nodemon/lib/utils/log.js	/^var useColours = true;$/;"	v
+userAgent	node_modules/simple-update-notifier/build/index.js	/^var userAgent = process__default["default"].env.npm_config_user_agent;$/;"	v
+util	node_modules/debug/src/node.js	/^var util = require('util');$/;"	v
+util	node_modules/nodemon/lib/nodemon.js	/^var util = require('util');$/;"	v
+util	node_modules/nodemon/lib/utils/bus.js	/^var util = require('util');$/;"	v
+utils	node_modules/nodemon/lib/config/index.js	/^var utils = require('..\/utils');$/;"	v
+utils	node_modules/nodemon/lib/config/load.js	/^var utils = require('..\/utils');$/;"	v
+utils	node_modules/nodemon/lib/monitor/run.js	/^var utils = require('..\/utils');$/;"	v
+utils	node_modules/nodemon/lib/monitor/watch.js	/^var utils = require('..\/utils');$/;"	v
+utils	node_modules/nodemon/lib/nodemon.js	/^var utils = require('.\/utils');$/;"	v
+utils	node_modules/nodemon/lib/rules/add.js	/^var utils = require('..\/utils');$/;"	v
+utils	node_modules/nodemon/lib/rules/index.js	/^var utils = require('..\/utils');$/;"	v
+validate	node_modules/nopt/lib/nopt.js	/^function validate (data, k, val, type, typeDefs) {$/;"	f	function:validateUrl
+validateBoolean	node_modules/nopt/lib/nopt.js	/^function validateBoolean (data, k, val) {$/;"	f	function:validateDate
+validateDate	node_modules/nopt/lib/nopt.js	/^function validateDate (data, k, val) {$/;"	f	function:validateNumber
+validateStream	node_modules/nopt/lib/nopt.js	/^function validateStream (data, k, val) {$/;"	f	function:validateUrl
+value	node_modules/picomatch/lib/parse.js	/^  const bos = { type: 'bos', value: '', output: opts.prepend || '' };$/;"	p	class:const
+value	node_modules/picomatch/lib/scan.js	/^      token = { value: '', depth: 0, isGlob: false };$/;"	p	class:token
+value	node_modules/picomatch/lib/scan.js	/^  let token = { value: '', depth: 0, isGlob: false };$/;"	p	class:let
+verb	node_modules/simple-update-notifier/build/index.js	/^    function verb(n) { return function (v) { return step([n, v]); }; }$/;"	f	function:__generator
+version	node_modules/nodemon/lib/nodemon.js	/^var version = require('.\/version');$/;"	v
+version	node_modules/nodemon/lib/utils/index.js	/^var version = process.versions.node.split('.') || [null, null, null];$/;"	v
+version	node_modules/nodemon/lib/version.js	/^function version(callback) {$/;"	f
+w	node_modules/ms/index.js	/^var w = d * 7;$/;"	v
+waitForSubProcesses	node_modules/nodemon/lib/monitor/run.js	/^function waitForSubProcesses(pid, callback) {$/;"	f
+watch	node_modules/nodemon/lib/monitor/run.js	/^var watch = require('.\/watch').watch;$/;"	v
+watch	node_modules/nodemon/lib/monitor/watch.js	/^function watch() {$/;"	f
+watcher	node_modules/chokidar/lib/nodefs-handler.js	/^      watcher: fs.watchFile(fullPath, options, (curr, prev) => {$/;"	p	class:cont
+watchers	node_modules/nodemon/lib/monitor/watch.js	/^var watchers = [];$/;"	v
+withFileTypes	node_modules/readdirp/index.js	/^    this._rdOptions = { encoding: 'utf8', withFileTypes: this._isDirent };$/;"	p	class:_rdOptions
+word	node_modules/picomatch/lib/constants.js	/^  word: 'A-Za-z0-9_',$/;"	p	class:const
+xdigit	node_modules/picomatch/lib/constants.js	/^  xdigit: 'A-Fa-f0-9'$/;"	p	class:const
+xs	node_modules/concat-map/example/map.js	/^var xs = [ 1, 2, 3, 4, 5, 6 ];$/;"	v
+y	node_modules/ms/index.js	/^var y = d * 365.25;$/;"	v
+ys	node_modules/concat-map/example/map.js	/^var ys = concatMap(xs, function (x) {$/;"	v
+zip	node_modules/to-regex-range/index.js	/^function zip(a, b) {$/;"	f
+{	node_modules/is-glob/index.js	/^var chars = { '{': '}', '(': ')', '[': ']'};$/;"	p	class:chars
